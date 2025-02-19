@@ -1,4 +1,4 @@
-# Curso Linux Dio - Projeto 1
+# Curso linux-projeto1-iac
 
 ---
 
